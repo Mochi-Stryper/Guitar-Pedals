@@ -1,0 +1,1 @@
+Wire two effects in series with two 3PDT stompswitches.
