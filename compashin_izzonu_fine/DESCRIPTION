@@ -1,0 +1,15 @@
+Shin-Ei
+Companion Fuzz
+Offboard:
+XPR: B50k
+OCT: B100k
+VOL: B50k
+Tone: SPDT ON-ON (Pads T1, T2, & T3)
+Build Error 11/2/2020: CD1 is a normally connected jumper connecting D2 and D3 to ground. If external diodes are used, then the external diodes/switch must be bridged to N$14 and externally connected to ground. Fortunately, an ounce of puzzled bewilderment and a malleable pair of diode leads can be oriented in such a way that a switch and external diodes can be wired up to the given pads. Best of luck.
+Alt. Title:
+puzzishin_a_fine_comon
+Zion_Zion_puf_cashmine
+Pinion_nishe_coma_fuzz
+oaf_pinshin_cuzzin_moe
+comizzion_fine_pashun
+fizZap_Neon_Muco_shini
