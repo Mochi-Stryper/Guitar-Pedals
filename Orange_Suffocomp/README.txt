@@ -1,2 +1,0 @@
-Orange Squeezer
-Compressor
